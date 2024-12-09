@@ -62,4 +62,17 @@
    Refined dataset for the project:  
    [Animal Peek Dataset](https://www.kaggle.com/datasets/imanuelsteven/animal-peek-dataset)
 
+## Model And Accuracy
+1. ** Train-Val Accuracy & Train-Val Loss**  
+   ![Accuracy and Loss](images/accuracy_loss.png)
+
+1. ** Model Evaluate on the Test Set**
+    ![Model Evaluate](images/Evaluate.png)
+
+   
+
+
+
+
+
 

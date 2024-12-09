@@ -63,10 +63,10 @@
    [Animal Peek Dataset](https://www.kaggle.com/datasets/imanuelsteven/animal-peek-dataset)
 
 ## Model And Accuracy
-1. ** Train-Val Accuracy & Train-Val Loss**  
+1. **Train-Val Accuracy & Train-Val Loss**  
    ![Accuracy and Loss](https://github.com/ERU16/Capstone/blob/20d445469563831dfc92f13464464a870813272c/Machine%20Learning/Accuracy%20And%20Loss.png)
 
-1. ** Model Evaluate on the Test Set**
+1. **Model Evaluate on the Test Set**
     ![Model Evaluate](https://github.com/ERU16/Capstone/blob/23695135dc46e4334d48c0656641b82b01c3d22b/Machine%20Learning/Evaluate.png)
 
    

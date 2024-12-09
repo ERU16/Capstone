@@ -21,7 +21,7 @@
 
 ## Project Overview
 
-**Animal Peek** is a machine learning-based solution designed to enhance education quality by leveraging image recognition to identify various animals. It aims to provide an engaging, interactive learning experience, especially for educational institutions, students, and teachers.
+**Animal Peek** is an interactive app that uses machine learning to teach children about animals through visuals, audio, fun facts, and quizzes. With a user-friendly design, kids can identify animals using a camera, learn about their traits, and enjoy engaging quizzes. The app promotes learning, curiosity, and wildlife conservation awarenes
 
 ---
 

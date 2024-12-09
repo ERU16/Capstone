@@ -1,6 +1,7 @@
 # Animal Peek: Final Capstone Project
 
 **Team ID:** C242-PS209
+
 **Theme:** Improving the Quality of Education  
 
 ---

@@ -49,6 +49,8 @@
 ## Featured Technologies
 - **TensorFlow**
 - **TensorFlow Lite**
+- **Other Libraries**: **OpenCV**, **numpy**, **pandas**, **matplotlib**, **seaborn**, **sklearn** for image processing, data manipulation, and model evaluation.
+
 
 ---
 

@@ -1,0 +1,283 @@
+[
+    {
+      "quiz_id": 1,
+      "animal_name": "Kelelawar",
+      "quiz_question": "Apa makanan utama kelelawar buah?",
+      "quiz_options": ["Serangga", "Buah", "Ikan", "Daging"],
+      "correct_answer": "Buah",
+      "fun_fact": "Kelelawar buah memainkan peran penting dalam ekosistem dengan menyebarkan biji dan membantu penyerbukan tanaman. Mereka adalah makhluk nokturnal yang menggunakan penglihatan dan penciuman yang tajam untuk menemukan buah di malam hari."
+    },
+    {
+      "quiz_id": 2,
+      "animal_name": "Beruang",
+      "quiz_question": "Beruang kutub terutama memakan apa?",
+      "quiz_options": ["Salmon", "Anjing laut", "Buah beri", "Rusa"],
+      "correct_answer": "Anjing laut",
+      "fun_fact": "Beruang kutub adalah predator puncak yang ahli dalam berburu anjing laut. Lapisan lemak tebal dan bulu putih mereka membantu bertahan hidup di lingkungan Arktik yang ekstrem, serta menyamar di atas es."
+    },
+    {
+      "quiz_id": 3,
+      "animal_name": "Lebah",
+      "quiz_question": "Apa produk yang dihasilkan lebah madu?",
+      "quiz_options": ["Sutera", "Madu", "Getah", "Minyak"],
+      "correct_answer": "Madu",
+      "fun_fact": "Lebah madu adalah pekerja keras yang mampu mengunjungi hingga 5.000 bunga sehari untuk mengumpulkan nektar. Koloni mereka sangat terorganisir, dengan ratu sebagai pemimpin dan lebah pekerja yang menciptakan madu sebagai sumber energi."
+    },
+    {
+      "quiz_id": 4,
+      "animal_name": "Kumbang",
+      "quiz_question": "Apa peran penting kumbang badak dalam ekosistem?",
+      "quiz_options": ["Memakan daging busuk", "Mendaur ulang bahan organik", "Menghasilkan sutera", "Menyerbuki bunga"],
+      "correct_answer": "Mendaur ulang bahan organik",
+      "fun_fact": "Kumbang badak membantu mendaur ulang bahan organik seperti kotoran dan sisa-sisa tanaman, yang meningkatkan kesuburan tanah. Mereka terkenal karena kekuatan luar biasa, mampu membawa beban hingga 850 kali berat tubuhnya."
+    },
+    {
+      "quiz_id": 5,
+      "animal_name": "Kupu-kupu",
+      "quiz_question": "Apa makanan utama kupu-kupu dewasa?",
+      "quiz_options": ["Nektar", "Daun", "Serangga kecil", "Buah busuk"],
+      "correct_answer": "Nektar",
+      "fun_fact": "Kupu-kupu dewasa meminum nektar menggunakan belalai panjang seperti sedotan. Selain mempercantik lingkungan, mereka juga membantu menyerbuki tanaman saat berpindah dari satu bunga ke bunga lainnya."
+    },
+    {
+      "quiz_id": 6,
+      "animal_name": "Kucing",
+      "quiz_question": "Berapa jari yang dimiliki kucing pada kaki depan mereka?",
+      "quiz_options": ["3", "4", "5", "6"],
+      "correct_answer": "5",
+      "fun_fact": "Kucing memiliki lima jari di kaki depan mereka yang membantu mereka mencengkeram mangsa dan memanjat. Namun, kaki belakang mereka hanya memiliki empat jari, memberikan keseimbangan saat melompat."
+    },
+    {
+      "quiz_id": 7,
+      "animal_name": "Ulat",
+      "quiz_question": "Apa tujuan utama ulat makan dalam jumlah besar?",
+      "quiz_options": ["Menciptakan energi untuk bermigrasi", "Mempersiapkan metamorfosis", "Bertahan di musim dingin", "Menjaga suhu tubuh"],
+      "correct_answer": "Mempersiapkan metamorfosis",
+      "fun_fact": "Ulat mengonsumsi banyak makanan untuk menyimpan energi yang digunakan selama tahap kepompong saat mereka mengalami metamorfosis menjadi kupu-kupu atau ngengat. Beberapa ulat bahkan menggandakan ukuran tubuhnya hanya dalam beberapa hari."
+    },
+    {
+      "quiz_id": 8,
+      "animal_name": "Kecoa",
+      "quiz_question": "Berapa lama kecoa dapat hidup tanpa kepala?",
+      "quiz_options": ["Beberapa menit", "Beberapa jam", "Beberapa hari", "Beberapa minggu"],
+      "correct_answer": "Beberapa hari",
+      "fun_fact": "Kecoa dapat hidup beberapa hari tanpa kepala karena mereka bernapas melalui lubang kecil di tubuh mereka. Mereka akhirnya mati bukan karena kehilangan kepala, tetapi karena dehidrasi."
+    },
+    {
+      "quiz_id": 9,
+      "animal_name": "Sapi",
+      "quiz_question": "Berapa jumlah perut yang dimiliki sapi?",
+      "quiz_options": ["1", "2", "3", "4"],
+      "correct_answer": "4",
+      "fun_fact": "Sapi memiliki empat bagian perut (rumen, retikulum, omasum, dan abomasum) yang membantu mereka mencerna rumput dan bahan berserat lainnya. Sistem pencernaan ini memungkinkan sapi mendapatkan nutrisi maksimal dari makanan mereka."
+    },
+    {
+      "quiz_id": 10,
+      "animal_name": "Kepiting",
+      "quiz_question": "Apa fungsi utama capit kepiting?",
+      "quiz_options": ["Berenang", "Berjalan", "Bertahan dan menangkap mangsa", "Menggali pasir"],
+      "correct_answer": "Bertahan dan menangkap mangsa",
+      "fun_fact": "Capit kepiting sangat serbaguna, digunakan untuk bertahan melawan predator, menangkap mangsa, dan bahkan menarik pasangan. Beberapa spesies kepiting jantan memiliki capit yang lebih besar untuk memamerkan kekuatan mereka."
+    },
+    {
+      "quiz_id": 11,
+      "animal_name": "Anjing",
+      "quiz_question": "Indera apa yang paling tajam pada anjing?",
+      "quiz_options": ["Pendengaran", "Penglihatan", "Penciuman", "Rasa"],
+      "correct_answer": "Penciuman",
+      "fun_fact": "Anjing memiliki indera penciuman yang 10.000 hingga 100.000 kali lebih tajam daripada manusia. Kemampuan ini memungkinkan mereka mendeteksi bau yang sangat halus, membuat mereka sangat berguna dalam mencari dan menyelamatkan, serta tugas polisi."
+    },
+    {
+        "quiz_id": 12,
+        "animal_name": "Capung",
+        "quiz_question": "Berapa kecepatan maksimum capung saat terbang?",
+        "quiz_options": ["20 km/jam", "30 km/jam", "50 km/jam", "60 km/jam"],
+        "correct_answer": "50 km/jam",
+        "fun_fact": "Capung adalah salah satu serangga tercepat di dunia, mampu terbang hingga kecepatan 50 km/jam. Mereka juga dikenal memiliki kemampuan manuver yang luar biasa, memungkinkan mereka mengejar mangsa dengan presisi tinggi."
+      },
+      {
+        "quiz_id": 13,
+        "animal_name": "Bebek",
+        "quiz_question": "Apa makanan utama bebek di habitat alami mereka?",
+        "quiz_options": ["Rumput", "Ikan kecil", "Roti", "Serangga"],
+        "correct_answer": "Serangga",
+        "fun_fact": "Bebek adalah pemakan omnivora yang menikmati berbagai makanan, termasuk serangga, tanaman air, dan ikan kecil. Struktur paruh mereka yang unik membantu mereka menyaring makanan dari air atau lumpur."
+      },
+      {
+        "quiz_id": 14,
+        "animal_name": "Gajah",
+        "quiz_question": "Apa fungsi utama belalai gajah?",
+        "quiz_options": ["Bernapas", "Minum air", "Mengangkat benda", "Semua benar"],
+        "correct_answer": "Semua benar",
+        "fun_fact": "Belalai gajah adalah alat multifungsi yang digunakan untuk bernapas, minum, makan, dan bahkan sebagai alat komunikasi. Belalai ini memiliki sekitar 40.000 otot, membuatnya sangat kuat dan fleksibel."
+      },
+      {
+        "quiz_id": 15,
+        "animal_name": "Lalat",
+        "quiz_question": "Berapa lama rata-rata umur seekor lalat rumah?",
+        "quiz_options": ["1 minggu", "2 minggu", "4 minggu", "6 minggu"],
+        "correct_answer": "4 minggu",
+        "fun_fact": "Lalat rumah biasanya hidup sekitar 4 minggu, tetapi dalam waktu singkat itu, mereka dapat bertelur hingga 500 butir. Kemampuan reproduksi mereka yang cepat membuat mereka sulit dikendalikan."
+      },
+      {
+        "quiz_id": 16,
+        "animal_name": "Kambing",
+        "quiz_question": "Apa keistimewaan penglihatan kambing?",
+        "quiz_options": ["Melihat dalam gelap", "Melihat 360 derajat", "Melihat warna merah", "Membedakan bentuk kecil"],
+        "correct_answer": "Melihat 360 derajat",
+        "fun_fact": "Mata kambing memiliki pupil horizontal yang memberikan penglihatan hampir 360 derajat. Ini memungkinkan mereka untuk tetap waspada terhadap predator di lingkungan terbuka."
+      },
+      {
+        "quiz_id": 17,
+        "animal_name": "Gorila",
+        "quiz_question": "Berapa persen DNA gorila yang mirip dengan manusia?",
+        "quiz_options": ["90%", "95%", "98%", "99%"],
+        "correct_answer": "98%",
+        "fun_fact": "Gorila berbagi sekitar 98% DNA mereka dengan manusia, menjadikannya salah satu kerabat terdekat kita di dunia hewan. Mereka sangat cerdas dan mampu menggunakan alat sederhana serta berkomunikasi menggunakan bahasa isyarat."
+      },
+      {
+        "quiz_id": 18,
+        "animal_name": "Belalang",
+        "quiz_question": "Bagaimana belalang menghasilkan suara?",
+        "quiz_options": ["Menggosok sayap", "Menggetarkan kaki", "Mengeluarkan udara", "Menggetarkan antena"],
+        "correct_answer": "Menggosok sayap",
+        "fun_fact": "Belalang menghasilkan suara dengan menggosok sayapnya, sebuah proses yang dikenal sebagai 'stridulasi.' Suara ini biasanya digunakan oleh jantan untuk menarik perhatian betina selama musim kawin."
+      },
+      {
+        "quiz_id": 19,
+        "animal_name": "Hamster",
+        "quiz_question": "Apa yang hamster lakukan untuk menyimpan makanan?",
+        "quiz_options": ["Menggali lubang", "Menggunakan pipi mereka", "Menyembunyikan di sarang", "Menyimpan di air"],
+        "correct_answer": "Menggunakan pipi mereka",
+        "fun_fact": "Hamster memiliki kantong pipi besar yang dapat diperluas untuk menyimpan makanan. Mereka sering membawa makanan kembali ke sarang mereka untuk dimakan nanti."
+      },
+      {
+        "quiz_id": 20,
+        "animal_name": "Kudanil",
+        "quiz_question": "Apa yang membuat kulit kudanil tetap lembap di bawah sinar matahari?",
+        "quiz_options": ["Minyak khusus", "Keringat merah muda", "Lapisan tebal lemak", "Rambut halus"],
+        "correct_answer": "Keringat merah muda",
+        "fun_fact": "Kudanil mengeluarkan cairan merah muda yang berfungsi sebagai tabir surya alami dan antibakteri. Ini melindungi kulit mereka dari sinar matahari dan infeksi saat mereka menghabiskan waktu di air atau darat."
+      },
+      {
+        "quiz_id": 21,
+        "animal_name": "Kuda",
+        "quiz_question": "Berapa lama kuda bisa tidur sambil berdiri?",
+        "quiz_options": ["1 jam", "3 jam", "4 jam", "6 jam"],
+        "correct_answer": "4 jam",
+        "fun_fact": "Kuda memiliki mekanisme penguncian sendi yang memungkinkan mereka tidur sambil berdiri. Ini adalah cara untuk tetap waspada terhadap predator sambil beristirahat."
+      },
+      {
+        "quiz_id": 22,
+        "animal_name": "Ladybug",
+        "quiz_question": "Apa makanan utama kepik (ladybug)?",
+        "quiz_options": ["Nektar", "Kutu daun", "Serbuk sari", "Daun"],
+        "correct_answer": "Kutu daun",
+        "fun_fact": "Kepik adalah predator alami bagi kutu daun, yang merupakan hama tanaman. Seekor kepik dewasa dapat memakan hingga 50 kutu daun dalam sehari, menjadikannya teman petani dalam pengendalian hama."
+      },
+      {
+        "quiz_id": 23,
+        "animal_name": "Singa",
+        "quiz_question": "Apa sebutan umum untuk singa?",
+        "quiz_options": ["Raja Rimba", "Penguasa Langit", "Pemangsa Malam", "Raja Gurun"],
+        "correct_answer": "Raja Rimba",
+        "fun_fact": "Singa disebut Raja Rimba karena kekuatan dan dominasi mereka di alam liar. Mereka adalah satu-satunya kucing besar yang hidup dalam kelompok yang disebut kawanan, yang dipimpin oleh satu atau dua pejantan."
+      },
+      {
+        "quiz_id": 24,
+        "animal_name": "Kadal",
+        "quiz_question": "Apa kemampuan unik yang dimiliki banyak spesies kadal untuk bertahan hidup?",
+        "quiz_options": ["Bisa terbang", "Mengganti kulit", "Memutuskan ekor", "Mengubah warna"],
+        "correct_answer": "Memutuskan ekor",
+        "fun_fact": "Banyak kadal memiliki kemampuan memutuskan ekor mereka untuk mengelabui predator. Ekor yang terputus akan terus bergerak, memberi kadal waktu untuk melarikan diri."
+      },
+      {
+        "quiz_id": 25,
+        "animal_name": "Monyet",
+        "quiz_question": "Apa makanan utama monyet di habitat alaminya?",
+        "quiz_options": ["Daging", "Serangga", "Buah", "Rumput"],
+        "correct_answer": "Buah",
+        "fun_fact": "Monyet adalah pemakan buah yang hebat, tetapi mereka juga mengonsumsi serangga dan tanaman. Perilaku sosial mereka yang kompleks membuat mereka menjadi salah satu hewan paling cerdas di dunia."
+      },
+      {
+        "quiz_id": 26,
+        "animal_name": "Tikus",
+        "quiz_question": "Apa keunikan gigi tikus?",
+        "quiz_options": ["Tidak pernah tumbuh", "Terus tumbuh sepanjang hidup", "Berwarna putih cerah", "Hanya muncul saat dewasa"],
+        "correct_answer": "Terus tumbuh sepanjang hidup",
+        "fun_fact": "Gigi depan tikus terus tumbuh sepanjang hidupnya, sehingga mereka harus menggerogoti benda keras untuk menjaga panjang gigi mereka tetap terkendali."
+      },
+      {
+        "quiz_id": 27,
+        "animal_name": "Panda",
+        "quiz_question": "Apa makanan utama panda?",
+        "quiz_options": ["Buah", "Bambu", "Daging", "Ikan"],
+        "correct_answer": "Bambu",
+        "fun_fact": "Panda raksasa menghabiskan 10–16 jam sehari untuk makan bambu, meskipun sistem pencernaan mereka lebih mirip karnivora. Kebiasaan makan ini membantu mereka bertahan di habitat mereka yang terbatas."
+      },
+      {
+        "quiz_id": 28,
+        "animal_name": "Babi",
+        "quiz_question": "Apa yang membuat babi dikenal sebagai hewan cerdas?",
+        "quiz_options": ["Kemampuan berenang", "Kemampuan mengingat", "Kemampuan berburu", "Kemampuan berbicara"],
+        "correct_answer": "Kemampuan mengingat",
+        "fun_fact": "Babi memiliki kemampuan mengingat yang luar biasa dan dikenal dapat mempelajari trik dengan cepat. Mereka juga mampu mengenali diri mereka sendiri di cermin, sebuah tanda kecerdasan tinggi."
+      },
+      {
+        "quiz_id": 29,
+        "animal_name": "Merpati",
+        "quiz_question": "Apa kemampuan luar biasa yang dimiliki merpati?",
+        "quiz_options": ["Mendeteksi gempa", "Navigasi jarak jauh", "Bertahan di air", "Berburu serangga"],
+        "correct_answer": "Navigasi jarak jauh",
+        "fun_fact": "Merpati dikenal memiliki kemampuan navigasi yang luar biasa, bahkan mampu menemukan jalan pulang dari jarak ratusan kilometer. Kemampuan ini sering digunakan dalam sejarah untuk mengirim pesan."
+      },
+      {
+        "quiz_id": 30,
+        "animal_name": "Badak",
+        "quiz_question": "Apa tanduk badak terbuat dari?",
+        "quiz_options": ["Tulang", "Keratin", "Gigi", "Kulit"],
+        "correct_answer": "Keratin",
+        "fun_fact": "Tanduk badak terbuat dari keratin, protein yang sama yang ditemukan pada rambut dan kuku manusia. Sayangnya, hal ini membuat badak sering diburu secara ilegal."
+      },
+      {
+        "quiz_id": 31,
+        "animal_name": "Ular",
+        "quiz_question": "Bagaimana ular melacak mangsa mereka?",
+        "quiz_options": ["Menggunakan lidah", "Menggunakan mata", "Menggunakan ekor", "Menggunakan getaran"],
+        "correct_answer": "Menggunakan lidah",
+        "fun_fact": "Ular menggunakan lidah bercabang mereka untuk 'mencium' udara dan melacak mangsa. Mereka mengumpulkan partikel bau di udara dan menganalisisnya menggunakan organ Jacobson di mulut mereka."
+      },
+      {
+        "quiz_id": 32,
+        "animal_name": "Burung Gereja",
+        "quiz_question": "Apa habitat utama burung gereja?",
+        "quiz_options": ["Hutan", "Padang rumput", "Kota dan desa", "Pegunungan"],
+        "correct_answer": "Kota dan desa",
+        "fun_fact": "Burung gereja sangat adaptif dan sering ditemukan di daerah perkotaan dan pedesaan. Mereka suka tinggal di dekat manusia karena mudah mendapatkan makanan dan tempat berlindung."
+      },
+      {
+        "quiz_id": 33,
+        "animal_name": "Harimau",
+        "quiz_question": "Apa pola unik yang dimiliki harimau pada tubuhnya?",
+        "quiz_options": ["Garis-garis", "Bintik-bintik", "Belang-belang", "Warna solid"],
+        "correct_answer": "Garis-garis",
+        "fun_fact": "Setiap harimau memiliki pola garis-garis yang unik, mirip dengan sidik jari manusia. Pola ini membantu mereka berkamuflase di lingkungan hutan dan rumput tinggi."
+      },
+      {
+        "quiz_id": 34,
+        "animal_name": "Kalkun",
+        "quiz_question": "Apa ciri khas kalkun jantan saat menarik perhatian betina?",
+        "quiz_options": ["Membentangkan ekor", "Menggoyangkan tubuh", "Berkicau keras", "Memanjat pohon"],
+        "correct_answer": "Membentangkan ekor",
+        "fun_fact": "Kalkun jantan membentangkan ekor mereka menjadi seperti kipas besar untuk menarik perhatian betina. Mereka juga mengeluarkan suara khas yang disebut 'gobble' untuk menunjukkan dominasi."
+      },
+      {
+        "quiz_id": 35,
+        "animal_name": "Zebra",
+        "quiz_question": "Apa fungsi utama pola garis pada tubuh zebra?",
+        "quiz_options": ["Menarik pasangan", "Melindungi dari predator", "Mengatur suhu tubuh", "Mengusir serangga"],
+        "correct_answer": "Mengusir serangga",
+        "fun_fact": "Pola garis-garis zebra membantu mengusir serangga seperti lalat tsetse. Garis-garis tersebut menciptakan ilusi optik yang membuat sulit bagi serangga untuk mendarat dengan baik di tubuh mereka."
+      }
+]
+  

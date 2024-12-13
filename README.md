@@ -376,19 +376,29 @@
   - Create/Login to existed account
   - Create the design for every page
   - Create Mockup and prototype (*to make detailed visual representation*)
+
        
   ![Halaman Utama](https://github.com/user-attachments/assets/eab072a5-5720-49d5-87a3-e61acdcbd596)
   ![After Scan Hewan](https://github.com/user-attachments/assets/560d95ef-ef3e-4128-ab97-b451b13f16e0)
         
  2. **Implement Design on Code**
   - Develop using **Kotlin** Programming Language in **Android Studio**
+  -
   
  3. **Integrated API to get Animal data (Animal Name, Description, Sound, User Profile)**
-    
+  -   
+ 
  4. **Implement Machine Learning Model**
-
+  -
+  - 
  5. **Deploy into .apk source**
   - Build app in Android Studio
+  - APK File
+  (https://drive.google.com/drive/folders/1PnOShx919TFS-08zI9u6Gl5Cj0Y8B8ro?usp=sharing)
+  
+  ![WhatsApp Image 2024-12-13 at 13 57 38](https://github.com/user-attachments/assets/425011f7-b889-4956-91a4-fbad665627dd)
+  
+
 
  ---
  ### Tools

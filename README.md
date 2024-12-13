@@ -72,6 +72,7 @@
 1. **Model Evaluate on the Test Set**
     ![Model Evaluate](https://github.com/ERU16/Capstone/blob/23695135dc46e4334d48c0656641b82b01c3d22b/Machine%20Learning/Evaluate.png)
 
+---
 
 ## Cloud Computing Path
 
@@ -365,9 +366,35 @@
   { "status": 400, "message": "Answer not provided" }
   ```
 
+   ---
 
+ ## Mobile Development Learning Path
    
+ ### Workflow  
+ 1. **Create UI Design**
+  - Open **Figma**(https://www.figma.com/)
+  - Create/Login to existed account
+  - Create the design for every page
+  - Create Mockup and prototype (*to make detailed visual representation*)
+       
+  ![Halaman Utama](https://github.com/user-attachments/assets/eab072a5-5720-49d5-87a3-e61acdcbd596)
+  ![After Scan Hewan](https://github.com/user-attachments/assets/560d95ef-ef3e-4128-ab97-b451b13f16e0)
+        
+ 2. **Implement Design on Code**
+  - Develop using **Kotlin** Programming Language in **Android Studio**
+  
+ 3. **Integrated API to get Animal data (Animal Name, Description, Sound, User Profile)**
+    
+ 4. **Implement Machine Learning Model**
 
+ 5. **Deploy into .apk source**
+  - Build app in Android Studio
+
+ ---
+ ### Tools
+
+ - **Android Studio** : Kotlin
+ - **Figma**          : UI/UX Design, Mockup, Prototype.
 
 
 

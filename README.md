@@ -388,7 +388,7 @@
   
  3. **Integrated API to get Animal data (Animal Name, Description, Sound, User Profile)**
   -   ![image](https://github.com/user-attachments/assets/152b7395-bca7-48ba-8580-c90c245e5c3e)
-
+  -   ![image](https://github.com/user-attachments/assets/9b973aea-1017-4e54-ab0b-0fcb30d17d3f)
  
  4. **Implement Machine Learning Model**
   -![image](https://github.com/user-attachments/assets/aef40028-028b-45c0-9c77-4dccab92c052)

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Peek</string>
+    <string name="camera">Foto Hewan yuk</string>
+    <string name="profile">profile</string>
+    <string name="daftar">Daftar Hewan</string>
+    <string name="home">Halaman Awal</string>
+    <string name="image_classifier_failed">Gambar gagal dianalisis</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="image_desc">Gambar</string>
+    <string name="analyze">Mari kita cek</string>
+    <string name="empty_image_warning">Gambar Kosong</string>
+    <string name="noavail">Histori Kosong</string>
+    <string name="label">Nama Hewan</string>
+    <string name="score">Skor</string>
+    <string name="cari_hewan">Cari Hewan</string>
+    <string name="english">English</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="animal_name">Nama Hewan</string>
+    <string name="animal_image">Gambar Hewan</string>
+    <string name="animal_detail_name">Nama: %1$s</string>
+    <string name="animal_detail_description">Description: %1$s</string>
+    <string name="animal_detail_scientific_name">Nama Ilmiah: %1$s</string>
+    <string name="failed_to_retrieve_details">Failed to retrieve details.</string>
+    <string name="error_fetching_details">Error fetching details.</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="play_sound">Memulai suara</string>
+    <string name="image_description">Gambar</string>
+    <string name="splash_logo">splash logo\n</string>
+    <string name="logout">Keluar</string>
+    <string name="hello_user">Halo, Pengguna!</string>
+    <string name="plustext">Mulai menjelajah yuk\n</string>
+    <string name="mulai">Mulai</string>
+
+    <string name="welcome">Selamat Datang</string>
+    <string name="extra">Ayo mulai penjelajahan hewan di sini</string>
+    <string name="username">Namamu siapa?</string>
+    <string name="age">Umur kamu berapa?</string>
+    <string name="register">Yuk Mulai</string>
+
+    <string name="profilename">Nama</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="scientific_name">Nama ilmiah</string>
+    <string name="animal_description">Deskripsi hewan</string>
+    <string name="alert">Yahh.. maaf yaa kami belum bisa mendeteksi hewan ini. Coba hewan lain yuk</string>
+    <string name="no_classification_result">Tidak ada hasil klasifikasi</string>
+
+    <string name="profile_image">Foto Profil</string>
+    <string name="select_profile_picture">Pilh foto profil</string>
+    <string name="enter_new_username">Masukkan nama</string>
+    <string name="enter_new_age">Masukkan umur</string>
+    <string name="old_username">Nama lama : </string>
+    <string name="old_age">Umur lama : </string>
+    <string name="save">Simpan</string>
+
+    <string name="permission_request_granted">Izin diberikan</string>
+    <string name="permission_request_denied">Izin ditolak</string>
+    <string name="failed_to_start_camera">Gagal memulai kamera</string>
+    <string name="failed_to_capture_image">Gagal mengambil gambar</string>
+    <string name="image_cropped_successfully">Berhasil crop gambar</string>
+    <string name="failed_to_crop_image">Gagal melakukan crop</string>
+    <string name="no_classification_results_found">Tidak ditemukan klasifikasi.</string>
+    <string name="classification_saved_to_database">Berhasil menyimpan ke history</string>
+    <string name="error_starting_image_analysis">Gagal melakukan analisis</string>
+    <string name="error">Terjadi kesalahan</string>
+
+    <string name="uknown_animal">Nama hewan tidak ditemukan</string>
+    <string name="terjadi_kesalahan">Terjadi kesalahan: %1$s</string>
+    <string name="jawaban_benar">Jawaban benar! %1$s</string>
+    <string name="jawaban_salah_coba_lagi">Jawaban salah. Coba lagi!</string>
+    <string name="memutar_suara_hewan">Memutar suara hewan...</string>
+    <string name="suara_selesai_diputar">Suara selesai diputar.</string>
+    <string name="hewan_tidak_ditemukan">Hewan Tidak Ditemukan</string>
+    <string name="tidak_ditemukan">Hewan dengan nama \"%1$s\" tidak ditemukan. Silakan coba nama lain.</string>
+    <string name="update_failed">Gagal memperbarui</string>
+    <string name="helloUser">Halo, Kawan</string>
+
+    <string name="pengaturan">Pengaturan</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="profil">Profil</string>
+    <string name="masukkan_nama">Masukkan nama hewan untuk pencarian</string>
+    <string name="no_classification_found">Tidak ditemukan klasifikasi</string>
+    <string name="the_image_did_not_yield_any_classifications">Tidak ada data yang sesuai</string>
+
+    <string name="no_valid_classification_result">Tidak ada hasil sesuai</string>
+    <string name="username_is_required">nama pengguna dibutuhkan</string>
+    <string name="valid_age_is_required">Umur dibutuhkan</string>
+    <string name="registration_successful">Berhasil mendaftar</string>
+    <string name="registration_failed">Gagal mendaftar</string>
+</resources>

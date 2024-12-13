@@ -1,0 +1,13 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="teal_200">#15A4BD</color> <!-- Untuk header dan bottom navigation -->
+    <color name="white">#FFFFFF</color> <!-- Untuk background utama -->
+
+    <!-- Text and Button Colors -->
+    <color name="black">#000000</color> <!-- Untuk teks tombol -->
+    <color name="gray">#9E9E9E</color> <!-- Untuk hint pada EditText -->
+
+    <!-- Button States (Jika dibutuhkan untuk drawable selector) -->
+    <color name="button_pressed">#66BB6A</color> <!-- Warna saat tombol ditekan -->
+    <color name="button_default">#43A047</color> <!-- Warna tombol default -->
+</resources>

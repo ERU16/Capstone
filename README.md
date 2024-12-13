@@ -394,7 +394,7 @@
  5. **Deploy into .apk source**
   - Build app in Android Studio
   - APK File
-  (https://drive.google.com/drive/folders/1PnOShx919TFS-08zI9u6Gl5Cj0Y8B8ro?usp=sharing)
+  (https://drive.google.com/file/d/1CsmAewhloWP7ZaZMbzSlEYtAW3j5QSx9/view?usp=sharing)
   
   ![WhatsApp Image 2024-12-13 at 13 57 38](https://github.com/user-attachments/assets/425011f7-b889-4956-91a4-fbad665627dd)
   

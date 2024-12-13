@@ -383,14 +383,17 @@
         
  2. **Implement Design on Code**
   - Develop using **Kotlin** Programming Language in **Android Studio**
-  -
+  - ![image](https://github.com/user-attachments/assets/9aa87d43-b95b-42b6-b9b5-2c2b1acbcd39)
+
   
  3. **Integrated API to get Animal data (Animal Name, Description, Sound, User Profile)**
-  -   
+  -   ![image](https://github.com/user-attachments/assets/152b7395-bca7-48ba-8580-c90c245e5c3e)
+
  
  4. **Implement Machine Learning Model**
-  -
-  - 
+  -![image](https://github.com/user-attachments/assets/aef40028-028b-45c0-9c77-4dccab92c052)
+  - ![image](https://github.com/user-attachments/assets/6d7094ad-6955-4b5d-b1e1-08f1ec5c0629)
+
  5. **Deploy into .apk source**
   - Build app in Android Studio
   - APK File
